@@ -66,7 +66,8 @@ destinationTabs.forEach((tab) => {
           `;
           }
         }
-      });
+      })
+      .catch((err) => console.log(err));
   });
 });
 
@@ -111,7 +112,8 @@ crewTabs.forEach((tab) => {
         `;
           }
         }
-      });
+      })
+      .catch((err) => console.log(err));
   });
 });
 
@@ -165,6 +167,7 @@ technologyTabs.forEach((tab) => {
         `;
           }
         }
-      });
+      })
+      .catch((err) => console.log(err));
   });
 });
