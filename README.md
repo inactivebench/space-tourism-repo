@@ -51,8 +51,7 @@ Technology page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Space Tourism](https://safari-nafasi.netlify.app/)
 
 ## My process
 
